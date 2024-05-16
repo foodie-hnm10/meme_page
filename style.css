@@ -1,0 +1,24 @@
+.funny_meme{
+    width:50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+.boldtext{
+    font-family: "Libre Baskerville", serif;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.paratext{
+    font-family: "Libre Baskerville", serif ;
+    color: white;
+    text-align: center;
+}
+.imagegirl{
+    border: 5px white solid;
+    width: 100%;  
+}
+body{
+    background-color: black;
+}
